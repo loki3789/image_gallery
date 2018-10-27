@@ -85,7 +85,7 @@ psmt.close();
             
             
            
-        <a href="index.jsp"><h1>Click here to go Adminpage</h1></a>
+        <a href="index.jsp"><h1>Click here to go Main Page</h1></a>
     </body>
 </html>
 
